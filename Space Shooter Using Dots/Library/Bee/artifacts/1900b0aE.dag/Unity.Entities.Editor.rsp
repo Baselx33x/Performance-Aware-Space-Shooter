@@ -113,6 +113,7 @@
 -define:ENABLE_TERRAIN
 -define:ENABLE_TILEMAP
 -define:ENABLE_TIMELINE
+-define:ENABLE_INPUT_SYSTEM
 -define:ENABLE_LEGACY_INPUT_MANAGER
 -define:TEXTCORE_FONT_ENGINE_1_5_OR_NEWER
 -define:CSHARP_7_OR_LATER
@@ -365,7 +366,6 @@
 -analyzer:"Library/PackageCache/com.unity.entities@1.2.4/Unity.Entities/SourceGenerators/SystemGenerator.SystemAPI.QueryBuilder.dll"
 -analyzer:"Library/PackageCache/com.unity.entities@1.2.4/Unity.Entities/SourceGenerators/Unity.Entities.Analyzer.CodeFixes.dll"
 -analyzer:"Library/PackageCache/com.unity.entities@1.2.4/Unity.Entities/SourceGenerators/Unity.Entities.Analyzer.dll"
--analyzer:"Library/PackageCache/com.unity.ext.nunit@2.0.3/net40/unity-custom/nunit.framework.dll"
 "Library/PackageCache/com.unity.entities@1.2.4/Unity.Entities.Editor/Analytics.cs"
 "Library/PackageCache/com.unity.entities@1.2.4/Unity.Entities.Editor/Archetypes/ArchetypesWindow+Recorder.cs"
 "Library/PackageCache/com.unity.entities@1.2.4/Unity.Entities.Editor/Archetypes/ArchetypesWindow.cs"

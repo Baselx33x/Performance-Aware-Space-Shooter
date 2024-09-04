@@ -1,0 +1,11 @@
+::Exported Types (by stable hash)::
+0xc6f35c654d78091c -   14335903629011585308 - Unity.Entities.CompanionReference
+0x82e665476acaca5a -    9432337826982840922 - Unity.Entities.CompanionLinkTransform
+0x2009233f15b71bbb -    2308415037858323387 - Unity.Entities.Simulate
+0xac8e98c1dbbde41c -   12434043579599283228 - Unity.Entities.SceneSection
+0x64d0a6cc97cca118 -    7264489596598919448 - Unity.Transforms.LocalTransform
+0xbdf78ec72f7a8a83 -   13688566578562108035 - Unity.Scenes.SceneBoundingVolume
+0x9d8e5023598a8e17 -   11353099823403929111 - UnityEngine.SpriteRenderer
+0xfdad7af89f7d0803 -   18279401670812960771 - Unity.Entities.CompanionLink
+0x0d505a56b9190115 -     959366049149026581 - Unity.Entities.SystemInstance
+0x853f9acc8b99f296 -    9601563133883314838 - Unity.Transforms.LocalToWorld
