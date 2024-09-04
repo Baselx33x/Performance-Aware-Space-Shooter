@@ -1,4 +1,4 @@
-﻿== AddedItemCannotBeLocked ==
+== AddedItemCannotBeLocked ==
 El ítem '{0}' no se puede bloquear porque es un añadido. (Nota: si el ítem no le aparece como añadido entonces el espacio de trabajo podría estar corrupto. Por favor, contacte con soporte)
 
 == AdminReadonlyNotSupported ==

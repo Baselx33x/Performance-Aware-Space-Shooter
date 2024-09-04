@@ -1,4 +1,4 @@
-﻿namespace Unity.Burst.Editor
+namespace Unity.Burst.Editor
 {
     internal partial class BurstDisassembler
     {

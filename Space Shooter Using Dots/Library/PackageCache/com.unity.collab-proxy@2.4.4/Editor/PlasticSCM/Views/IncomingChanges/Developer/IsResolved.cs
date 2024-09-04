@@ -1,4 +1,4 @@
-﻿using Codice.Client.BaseCommands.Merge;
+using Codice.Client.BaseCommands.Merge;
 using PlasticGui.WorkspaceWindow.Merge;
 
 namespace Unity.PlasticSCM.Editor.Views.IncomingChanges.Developer

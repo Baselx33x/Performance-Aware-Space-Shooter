@@ -1,4 +1,4 @@
-﻿namespace Unity.PlasticSCM.Editor.UI
+namespace Unity.PlasticSCM.Editor.UI
 {
     public static class UnityConstants
     {

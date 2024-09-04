@@ -1,4 +1,4 @@
-﻿== FontPreviewSampleTest ==
+== FontPreviewSampleTest ==
 動作快的棕狐跳過懶惰的狗
 
 == FontPreviewLabelFont ==

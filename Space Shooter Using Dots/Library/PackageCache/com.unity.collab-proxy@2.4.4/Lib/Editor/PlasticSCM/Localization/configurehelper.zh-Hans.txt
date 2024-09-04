@@ -1,4 +1,4 @@
-﻿== ConfiguringLanguage ==
+== ConfiguringLanguage ==
 正在配置语言。这些是可用的语言
 
 == ChooseLanguage ==

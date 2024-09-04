@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using UnityEditor.U2D.Common;
 using UnityEditorInternal;
 using UnityEngine;

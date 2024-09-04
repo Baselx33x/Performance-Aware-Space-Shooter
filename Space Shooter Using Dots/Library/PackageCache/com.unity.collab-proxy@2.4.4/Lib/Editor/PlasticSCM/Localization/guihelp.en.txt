@@ -1,4 +1,4 @@
-﻿== PlasticWkExplFullEmpty ==
+== PlasticWkExplFullEmpty ==
 [title]Your workspace is empty and your repo is empty too[/title]
 
 [bold]Do you want to add an existing project?[/bold]

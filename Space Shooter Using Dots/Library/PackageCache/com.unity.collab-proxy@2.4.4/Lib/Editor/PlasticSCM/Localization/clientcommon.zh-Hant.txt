@@ -1,4 +1,4 @@
-﻿== AddNotAllowedPathIsFreeByTransformerRule ==
+== AddNotAllowedPathIsFreeByTransformerRule ==
 無法新增項目 '{0}'。已在伺服器中使用路徑 '{0}'，但由於轉換器規則 '{1}'，它在用戶端上為可用狀態。
 
 == AddedItemCannotBeLocked ==

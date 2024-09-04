@@ -1,4 +1,4 @@
-﻿== CmInvalidCertificateHostname ==
+== CmInvalidCertificateHostname ==
 ATENCIÓN: el nombre de host que aparece en el certificado del 
 servidor no coincide con el nombre de host del servidor. Esto significa que el 
 certificado no ha sido generado para ese nombre de host o que existe algún 

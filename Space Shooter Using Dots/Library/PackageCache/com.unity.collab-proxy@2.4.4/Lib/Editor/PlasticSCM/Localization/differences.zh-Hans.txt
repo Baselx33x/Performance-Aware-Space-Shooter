@@ -1,4 +1,4 @@
-﻿== Diff ==
+== Diff ==
 差异：
 
 == BasePosition ==

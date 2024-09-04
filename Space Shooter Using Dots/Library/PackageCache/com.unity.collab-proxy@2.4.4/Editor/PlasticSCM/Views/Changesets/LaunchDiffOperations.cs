@@ -1,4 +1,4 @@
-﻿using Codice.CM.Common;
+using Codice.CM.Common;
 using Unity.PlasticSCM.Editor.Tool;
 
 namespace Unity.PlasticSCM.Editor.Views.Changesets

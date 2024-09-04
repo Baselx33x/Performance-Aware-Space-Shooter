@@ -1,4 +1,4 @@
-﻿== WrongRevFormat3D ==
+== WrongRevFormat3D ==
 指定されたリビジョン形式は有効でありません
 
 == AcceptResults ==

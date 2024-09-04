@@ -1,4 +1,4 @@
-﻿using UnityEditor;
+using UnityEditor;
 
 using Codice.LogWrapper;
 using Unity.PlasticSCM.Editor.AssetsOverlays.Cache;

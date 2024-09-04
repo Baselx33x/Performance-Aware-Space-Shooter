@@ -1,4 +1,4 @@
-﻿@import "Base.uss";
+@import "Base.uss";
 
 #windowContainer {
     height: 100%;

@@ -1,4 +1,4 @@
-﻿== Base ==
+== Base ==
 基底
 
 == ChangedResultFile ==

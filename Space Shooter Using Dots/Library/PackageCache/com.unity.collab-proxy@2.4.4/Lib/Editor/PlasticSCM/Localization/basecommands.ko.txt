@@ -1,4 +1,4 @@
-﻿== WrongRevFormat3D ==
+== WrongRevFormat3D ==
 지정된 개정 형식이 유효하지 않습니다
 
 == AcceptResults ==

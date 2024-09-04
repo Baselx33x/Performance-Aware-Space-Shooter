@@ -1,4 +1,4 @@
-﻿using GluonGui.WorkspaceWindow.Views.Checkin.Operations;
+using GluonGui.WorkspaceWindow.Views.Checkin.Operations;
 
 namespace Unity.PlasticSCM.Editor.Gluon
 {

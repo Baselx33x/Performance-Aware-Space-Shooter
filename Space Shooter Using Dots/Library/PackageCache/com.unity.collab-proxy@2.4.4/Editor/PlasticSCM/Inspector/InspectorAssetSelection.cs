@@ -1,4 +1,4 @@
-﻿using UnityEditor.VersionControl;
+using UnityEditor.VersionControl;
 
 using Unity.PlasticSCM.Editor.AssetMenu;
 using Unity.PlasticSCM.Editor.AssetUtils;

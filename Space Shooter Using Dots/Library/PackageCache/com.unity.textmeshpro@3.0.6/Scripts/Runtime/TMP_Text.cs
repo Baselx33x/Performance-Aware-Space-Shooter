@@ -1,4 +1,4 @@
-﻿#define TMP_PRESENT
+#define TMP_PRESENT
 
 using System;
 using System.Collections;

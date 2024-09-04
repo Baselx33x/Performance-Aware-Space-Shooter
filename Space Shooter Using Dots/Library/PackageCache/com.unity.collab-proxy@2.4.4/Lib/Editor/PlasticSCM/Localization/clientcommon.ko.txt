@@ -1,4 +1,4 @@
-﻿== AddNotAllowedPathIsFreeByTransformerRule ==
+== AddNotAllowedPathIsFreeByTransformerRule ==
 '{0}' 항목을 추가할 수 없습니다. 경로 '{0}'을(를) 서버에서 이미 사용 중이지만, 변환기 규칙 '{1}'(으)로 인해 클라이언트에서는 사용 중이지 않습니다.
 
 == AddedItemCannotBeLocked ==

@@ -1,4 +1,4 @@
-﻿using Codice.Client.Commands.WkTree;
+using Codice.Client.Commands.WkTree;
 using Codice.CM.Common;
 
 namespace Codice

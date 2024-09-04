@@ -1,4 +1,4 @@
-﻿using Unity.Plastic.Newtonsoft.Json;
+using Unity.Plastic.Newtonsoft.Json;
 
 public class OrganizationCredentials
 {

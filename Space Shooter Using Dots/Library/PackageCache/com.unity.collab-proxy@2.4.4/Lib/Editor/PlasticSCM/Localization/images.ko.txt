@@ -1,4 +1,4 @@
-﻿== FsPropertiesName ==
+== FsPropertiesName ==
 이름
 
 == FsPropertiesFullPath ==

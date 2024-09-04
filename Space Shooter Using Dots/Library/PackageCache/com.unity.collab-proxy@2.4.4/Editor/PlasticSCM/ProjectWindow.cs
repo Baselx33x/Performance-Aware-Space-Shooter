@@ -1,4 +1,4 @@
-﻿using UnityEditor;
+using UnityEditor;
 
 using Unity.PlasticSCM.Editor.UI;
 

@@ -1,4 +1,4 @@
-﻿using System.Linq;
+using System.Linq;
 using System.Reflection;
 
 namespace Unity.PlasticSCM.Editor.UI

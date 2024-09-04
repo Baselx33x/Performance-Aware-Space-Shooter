@@ -1,4 +1,4 @@
-﻿== FontPreviewSampleTest ==
+== FontPreviewSampleTest ==
 날쌘 갈색 여우가 게으른 개를 뛰어넘습니다
 
 == FontPreviewLabelFont ==

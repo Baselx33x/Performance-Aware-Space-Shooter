@@ -1,4 +1,4 @@
-﻿== Error ==
+== Error ==
 오류
 
 == NoResultFileSelected ==

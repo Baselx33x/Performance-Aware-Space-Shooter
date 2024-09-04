@@ -1,4 +1,4 @@
-﻿== AclNotFound ==
+== AclNotFound ==
 您正在处理过期的对象。也许您的客户端或工作区已过期，请对其进行更新。
 
 == ActivateUserNotInLicenseList ==

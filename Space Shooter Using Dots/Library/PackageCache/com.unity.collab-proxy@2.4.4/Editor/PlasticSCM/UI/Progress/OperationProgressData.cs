@@ -1,4 +1,4 @@
-﻿namespace Unity.PlasticSCM.Editor.UI.Progress
+namespace Unity.PlasticSCM.Editor.UI.Progress
 {
     internal class OperationProgressData
     {

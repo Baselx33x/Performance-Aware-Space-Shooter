@@ -1,4 +1,4 @@
-﻿using System.Collections.Generic;
+using System.Collections.Generic;
 
 using Codice.CM.Common;
 using Unity.PlasticSCM.Editor.UI.Tree;

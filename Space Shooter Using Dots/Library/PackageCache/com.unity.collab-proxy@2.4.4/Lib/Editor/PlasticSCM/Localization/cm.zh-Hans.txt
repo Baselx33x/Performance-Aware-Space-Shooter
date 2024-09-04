@@ -1,4 +1,4 @@
-﻿== CmExistingCertificateChanged ==
+== CmExistingCertificateChanged ==
 
 警告：此主机的证书与密钥存储库中的证书不匹配。
 这可能意味着服务器的身份已泄露或您正在受到

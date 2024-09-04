@@ -1,4 +1,4 @@
-﻿== CMD_DESCRIPTION_ACL ==
+== CMD_DESCRIPTION_ACL ==
 オブジェクトに権限を設定します。
 
 == CMD_USAGE_ACL ==

@@ -1,4 +1,4 @@
-﻿using Unity.PlasticSCM.Editor.Views.IncomingChanges;
+using Unity.PlasticSCM.Editor.Views.IncomingChanges;
 using Unity.PlasticSCM.Editor.Views.PendingChanges;
 
 namespace Unity.PlasticSCM.Editor

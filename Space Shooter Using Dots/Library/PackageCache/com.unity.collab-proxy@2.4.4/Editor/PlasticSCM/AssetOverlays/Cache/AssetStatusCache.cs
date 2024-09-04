@@ -1,4 +1,4 @@
-﻿using Codice.CM.Common;
+using Codice.CM.Common;
 using Unity.PlasticSCM.Editor.AssetUtils;
 
 namespace Unity.PlasticSCM.Editor.AssetsOverlays.Cache

@@ -1,4 +1,4 @@
-﻿== CmExistingCertificateChanged ==
+== CmExistingCertificateChanged ==
 
 警告: このホストの証明書は、キーストアにある証明書と
 一致していません。これは、サーバーの ID が侵害されたか、

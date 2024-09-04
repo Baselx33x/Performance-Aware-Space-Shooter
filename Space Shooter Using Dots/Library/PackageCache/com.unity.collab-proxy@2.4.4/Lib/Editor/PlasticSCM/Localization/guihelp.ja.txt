@@ -1,4 +1,4 @@
-﻿== PlasticWkExplFullEmpty ==
+== PlasticWkExplFullEmpty ==
 [title]ワークスペースが空で、リポジトリも空です[/title]
 
 [bold]既存のプロジェクトを追加しますか?[/bold]

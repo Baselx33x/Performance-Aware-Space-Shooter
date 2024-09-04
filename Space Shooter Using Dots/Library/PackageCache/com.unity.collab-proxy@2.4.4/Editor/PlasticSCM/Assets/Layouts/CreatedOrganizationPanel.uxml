@@ -1,4 +1,4 @@
-﻿<UXML xmlns="UnityEngine.UIElements">
+<UXML xmlns="UnityEngine.UIElements">
     <VisualElement class="flex-container main">
         <VisualElement class="form">
             <Label name="createdTitle" class="title" />

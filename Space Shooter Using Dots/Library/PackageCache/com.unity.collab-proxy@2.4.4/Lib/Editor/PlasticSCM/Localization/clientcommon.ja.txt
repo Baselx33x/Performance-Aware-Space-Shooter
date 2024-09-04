@@ -1,4 +1,4 @@
-﻿== AddNotAllowedPathIsFreeByTransformerRule ==
+== AddNotAllowedPathIsFreeByTransformerRule ==
 項目 '{0}' を追加できません。パス '{0}' はサーバー内ですでに使用されていますが、トランスフォーマー規則 '{1}' によってクライアントでは使用されていません。
 
 == AddedItemCannotBeLocked ==

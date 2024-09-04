@@ -1,4 +1,4 @@
-﻿== CMD_DESCRIPTION_ACL ==
+== CMD_DESCRIPTION_ACL ==
 객체에 권한을 설정합니다.
 
 == CMD_USAGE_ACL ==

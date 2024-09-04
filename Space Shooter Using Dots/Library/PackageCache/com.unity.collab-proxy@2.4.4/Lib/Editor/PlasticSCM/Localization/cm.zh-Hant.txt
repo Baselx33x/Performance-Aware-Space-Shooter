@@ -1,4 +1,4 @@
-﻿== CmExistingCertificateChanged ==
+== CmExistingCertificateChanged ==
 
 警告: 此主機憑證與您在金鑰
 存放區擁有的主機憑證不相符。這可能表示伺服器身分識別已遭洩漏，或

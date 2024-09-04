@@ -1,4 +1,4 @@
-﻿== AddedItemCannotBeLocked ==
+== AddedItemCannotBeLocked ==
 The item '{0}' cannot be locked because it's an added item. (Note: if the item doesn't appear as an added item then the workspace could be corrupted. Please contact with support)
 
 == AdminReadonlyNotSupported ==

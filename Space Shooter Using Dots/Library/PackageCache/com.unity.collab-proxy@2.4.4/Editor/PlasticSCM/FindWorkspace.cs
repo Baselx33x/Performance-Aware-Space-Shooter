@@ -1,4 +1,4 @@
-﻿using System.IO;
+using System.IO;
 using Codice.Client.Common;
 using Codice.CM.Common;
 using PlasticGui;

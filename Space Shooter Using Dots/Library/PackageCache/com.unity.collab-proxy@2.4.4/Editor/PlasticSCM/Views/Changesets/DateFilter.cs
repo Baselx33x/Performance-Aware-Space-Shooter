@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using PlasticGui.WorkspaceWindow.QueryViews;
 
 namespace Unity.PlasticSCM.Editor.Views.Changesets

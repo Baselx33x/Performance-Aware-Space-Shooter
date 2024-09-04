@@ -1,4 +1,4 @@
-﻿namespace Unity.PlasticSCM.Editor.Tool
+namespace Unity.PlasticSCM.Editor.Tool
 {
     internal static class ToolConstants
     {

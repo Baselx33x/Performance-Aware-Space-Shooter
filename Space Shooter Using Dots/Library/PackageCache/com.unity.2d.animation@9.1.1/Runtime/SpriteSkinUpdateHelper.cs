@@ -1,4 +1,4 @@
-﻿using Unity.Profiling;
+using Unity.Profiling;
 
 namespace UnityEngine.U2D.Animation
 {

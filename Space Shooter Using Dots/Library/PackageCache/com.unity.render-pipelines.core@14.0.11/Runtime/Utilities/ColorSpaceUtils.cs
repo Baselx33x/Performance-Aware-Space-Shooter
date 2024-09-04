@@ -1,4 +1,4 @@
-﻿
+
 
 // The contents of this file should be kept is sync with the ShaderLibrary\HDROutput.hlsl "Color Space transforms" section.
 namespace UnityEngine.Rendering

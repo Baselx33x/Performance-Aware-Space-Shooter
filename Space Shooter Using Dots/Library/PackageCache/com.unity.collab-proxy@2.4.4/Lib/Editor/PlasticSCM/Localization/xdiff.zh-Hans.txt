@@ -1,4 +1,4 @@
-﻿== SemanticOutline ==
+== SemanticOutline ==
 语义大纲
 
 == ExpandSemanticOutlineTooltip ==

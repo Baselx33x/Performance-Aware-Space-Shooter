@@ -1,4 +1,4 @@
-﻿using GluonGui.WorkspaceWindow.Views.WorkspaceExplorer.Explorer;
+using GluonGui.WorkspaceWindow.Views.WorkspaceExplorer.Explorer;
 
 namespace Unity.PlasticSCM.Editor.Gluon
 {

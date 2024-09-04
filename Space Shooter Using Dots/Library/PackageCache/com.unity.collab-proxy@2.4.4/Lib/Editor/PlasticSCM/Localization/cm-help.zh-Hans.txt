@@ -1,4 +1,4 @@
-﻿== CMD_DESCRIPTION_ACL ==
+== CMD_DESCRIPTION_ACL ==
 设置对象权限。
 
 == CMD_USAGE_ACL ==

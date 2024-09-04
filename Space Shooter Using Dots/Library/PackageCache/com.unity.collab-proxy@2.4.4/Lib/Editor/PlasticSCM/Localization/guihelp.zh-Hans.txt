@@ -1,4 +1,4 @@
-﻿== PlasticWkExplFullEmpty ==
+== PlasticWkExplFullEmpty ==
 [title]您的工作区是空的，您的存储库也是空的[/title]
 
 [bold]是否要添加到现有项目？[/bold]

@@ -1,4 +1,4 @@
-﻿== PlasticWkExplFullEmpty ==
+== PlasticWkExplFullEmpty ==
 [title]워크스페이스가 비어 있으며 리포지토리도 비어 있습니다[/title]
 
 [bold]기존 프로젝트를 추가하시겠습니까?[/bold]

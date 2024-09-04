@@ -1,4 +1,4 @@
-﻿using Codice.Client.Common.FsNodeReaders;
+using Codice.Client.Common.FsNodeReaders;
 using Codice.CM.Common;
 using Codice.LogWrapper;
 using PlasticPipe.Client;

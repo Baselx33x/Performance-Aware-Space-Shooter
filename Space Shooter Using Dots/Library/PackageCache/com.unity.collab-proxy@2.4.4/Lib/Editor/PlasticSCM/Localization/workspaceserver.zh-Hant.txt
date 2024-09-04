@@ -1,4 +1,4 @@
-﻿== NotChange ==
+== NotChange ==
 目前工作區中的項目 {0} 未變更
 
 == CannotMergeMergeInProgress ==

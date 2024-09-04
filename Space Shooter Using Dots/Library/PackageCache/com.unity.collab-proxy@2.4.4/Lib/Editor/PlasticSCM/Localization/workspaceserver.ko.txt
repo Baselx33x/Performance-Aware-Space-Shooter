@@ -1,4 +1,4 @@
-﻿== NotChange ==
+== NotChange ==
 현재 워크스페이스에서 {0} 항목이 변경되지 않았습니다
 
 == CannotMergeMergeInProgress ==

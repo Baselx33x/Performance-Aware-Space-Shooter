@@ -1,4 +1,4 @@
-﻿using Codice.Client.BaseCommands.Merge;
+using Codice.Client.BaseCommands.Merge;
 using Codice.CM.Common.Merge;
 using PlasticGui.WorkspaceWindow.Merge;
 

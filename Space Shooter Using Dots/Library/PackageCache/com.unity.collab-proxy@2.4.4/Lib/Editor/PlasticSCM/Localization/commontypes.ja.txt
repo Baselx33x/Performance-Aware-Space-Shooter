@@ -1,4 +1,4 @@
-﻿== AclNotFound ==
+== AclNotFound ==
 最新でないオブジェクトを操作しています。クライアントまたはワークスペースが最新でない可能性があります。更新してください。
 
 == ActivateUserNotInLicenseList ==

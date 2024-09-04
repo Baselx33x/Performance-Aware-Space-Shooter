@@ -1,4 +1,4 @@
-﻿== CMD_DESCRIPTION_ACL ==
+== CMD_DESCRIPTION_ACL ==
 設定物件權限。
 
 == CMD_USAGE_ACL ==

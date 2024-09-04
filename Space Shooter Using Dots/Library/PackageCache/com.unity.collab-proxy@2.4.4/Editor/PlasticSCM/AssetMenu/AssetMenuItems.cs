@@ -1,4 +1,4 @@
-﻿using UnityEditor.VersionControl;
+using UnityEditor.VersionControl;
 
 using Codice.CM.Common;
 using Codice.Client.Common.EventTracking;

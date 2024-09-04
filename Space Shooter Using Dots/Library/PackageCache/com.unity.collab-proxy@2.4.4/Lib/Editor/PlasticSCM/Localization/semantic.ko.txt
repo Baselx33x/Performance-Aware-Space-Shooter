@@ -1,4 +1,4 @@
-﻿== Base ==
+== Base ==
 베이스
 
 == ChangedResultFile ==

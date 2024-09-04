@@ -1,4 +1,4 @@
-﻿using Codice.Client.BaseCommands;
+using Codice.Client.BaseCommands;
 using Codice.Client.Commands.CheckIn;
 using Codice.Client.Common;
 using Codice.CM.Common;

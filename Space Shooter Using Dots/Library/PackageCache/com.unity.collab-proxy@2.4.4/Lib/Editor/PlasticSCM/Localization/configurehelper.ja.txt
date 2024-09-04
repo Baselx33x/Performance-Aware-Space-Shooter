@@ -1,4 +1,4 @@
-﻿== ConfiguringLanguage ==
+== ConfiguringLanguage ==
 言語を設定しています。これらが利用できる言語です
 
 == ChooseLanguage ==

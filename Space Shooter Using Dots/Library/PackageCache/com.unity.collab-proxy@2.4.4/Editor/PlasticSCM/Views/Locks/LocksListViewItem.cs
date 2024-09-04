@@ -1,4 +1,4 @@
-﻿using Codice.CM.Common;
+using Codice.CM.Common;
 using UnityEditor.IMGUI.Controls;
 
 namespace Unity.PlasticSCM.Editor.Views.Locks

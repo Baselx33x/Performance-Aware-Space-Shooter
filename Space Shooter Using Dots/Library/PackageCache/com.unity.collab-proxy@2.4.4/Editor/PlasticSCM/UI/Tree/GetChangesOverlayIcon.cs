@@ -1,4 +1,4 @@
-﻿using UnityEngine;
+using UnityEngine;
 
 using Codice.Client.BaseCommands;
 using Codice.Client.Commands;

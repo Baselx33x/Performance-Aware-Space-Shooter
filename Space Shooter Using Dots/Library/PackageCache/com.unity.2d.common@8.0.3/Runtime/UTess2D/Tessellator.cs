@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using Unity.Profiling;
 using Unity.Collections;
 using Unity.Mathematics;

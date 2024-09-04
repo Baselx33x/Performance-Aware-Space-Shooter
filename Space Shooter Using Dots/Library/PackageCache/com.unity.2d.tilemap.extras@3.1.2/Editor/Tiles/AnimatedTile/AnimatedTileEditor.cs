@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using UnityEditorInternal;
 using UnityEngine.Scripting.APIUpdating;
 using System.Collections.Generic;

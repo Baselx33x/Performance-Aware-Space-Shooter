@@ -1,4 +1,4 @@
-﻿== FontPreviewSampleTest ==
+== FontPreviewSampleTest ==
 せっかちな茶色のキツネがのんびりした犬の上を飛び越える
 
 == FontPreviewLabelFont ==

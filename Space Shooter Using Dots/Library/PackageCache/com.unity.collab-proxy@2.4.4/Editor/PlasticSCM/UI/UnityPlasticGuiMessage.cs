@@ -1,4 +1,4 @@
-﻿using UnityEditor;
+using UnityEditor;
 
 using Codice.Client.Common;
 using PlasticGui;

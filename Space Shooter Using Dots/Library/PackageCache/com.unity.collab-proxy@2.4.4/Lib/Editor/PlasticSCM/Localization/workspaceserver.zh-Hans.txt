@@ -1,4 +1,4 @@
-﻿== NotChange ==
+== NotChange ==
 项 {0} 在当前工作区中未更改
 
 == CannotMergeMergeInProgress ==

@@ -1,4 +1,4 @@
-﻿== CmExistingCertificateChanged ==
+== CmExistingCertificateChanged ==
 
 경고: 이 호스트의 인증서가 키 저장소에 있는 인증서와 일치하지 
 않습니다. 서버 ID가 손상되었거나 

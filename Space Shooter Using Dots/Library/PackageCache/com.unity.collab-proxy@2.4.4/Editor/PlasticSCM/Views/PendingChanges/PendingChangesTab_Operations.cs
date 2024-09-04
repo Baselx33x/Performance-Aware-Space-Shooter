@@ -1,4 +1,4 @@
-﻿using System.Collections.Generic;
+using System.Collections.Generic;
 
 using Codice.Client.Commands.CheckIn;
 using Codice.Client.BaseCommands;

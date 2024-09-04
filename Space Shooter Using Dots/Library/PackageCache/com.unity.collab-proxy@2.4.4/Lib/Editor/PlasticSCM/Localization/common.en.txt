@@ -1,4 +1,4 @@
-﻿== AddNotApplicable ==
+== AddNotApplicable ==
 The new item cannot be loaded in the workspace. Probably, the path is already used. Please unload the item (from the configuration view) and retry the operation: '{0}'.
 
 == DeleteNotApplicable ==

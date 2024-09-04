@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using Codice.Client.Common;
 using Codice.CM.Common;
 using Codice.LogWrapper;

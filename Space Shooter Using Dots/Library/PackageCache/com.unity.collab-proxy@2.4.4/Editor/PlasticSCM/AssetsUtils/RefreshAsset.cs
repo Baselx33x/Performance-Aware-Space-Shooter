@@ -1,4 +1,4 @@
-﻿using UnityEditor.PackageManager;
+using UnityEditor.PackageManager;
 using UnityEditor;
 
 using AssetPostprocessor = Unity.PlasticSCM.Editor.AssetUtils.Processor.AssetPostprocessor;

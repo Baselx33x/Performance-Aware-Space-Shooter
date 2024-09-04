@@ -1,4 +1,4 @@
-﻿== AddNotApplicable ==
+== AddNotApplicable ==
 El ítem no puede ser descargado en el workspace. Posiblemente, el path ya está en uso. Por favor, desmarque el ítem  (desde la vista de configuración) y reintente la operación: '{0}'.
 
 == DeleteNotApplicable ==

@@ -1,4 +1,4 @@
-﻿== MergetoolWindowTitle ==
+== MergetoolWindowTitle ==
 Unity Version Control マージツール
 
 == FirstConflictButtonTooltip ==

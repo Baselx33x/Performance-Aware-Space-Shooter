@@ -1,4 +1,4 @@
-﻿== NotChange ==
+== NotChange ==
 項目 {0} は現在のワークスペースでチェックインされていません
 
 == CannotMergeMergeInProgress ==

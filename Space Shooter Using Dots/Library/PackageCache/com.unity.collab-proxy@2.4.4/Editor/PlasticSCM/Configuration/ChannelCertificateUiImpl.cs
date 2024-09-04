@@ -1,4 +1,4 @@
-﻿using Codice.Client.Common;
+using Codice.Client.Common;
 using Codice.CM.Common;
 using PlasticGui;
 using PlasticPipe.Certificates;

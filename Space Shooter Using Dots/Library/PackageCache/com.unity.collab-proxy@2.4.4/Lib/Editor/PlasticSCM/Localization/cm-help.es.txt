@@ -1,4 +1,4 @@
-﻿== CMD_DESCRIPTION_ACCESS_TOKEN ==
+== CMD_DESCRIPTION_ACCESS_TOKEN ==
 Permite al usuario administrar tókenes de acceso.
 
 == CMD_USAGE_ACCESS_TOKEN ==

@@ -1,4 +1,4 @@
-﻿namespace Unity.PlasticSCM.Editor.Views.IncomingChanges
+namespace Unity.PlasticSCM.Editor.Views.IncomingChanges
 {
     internal interface IIncomingChangesTab
     {

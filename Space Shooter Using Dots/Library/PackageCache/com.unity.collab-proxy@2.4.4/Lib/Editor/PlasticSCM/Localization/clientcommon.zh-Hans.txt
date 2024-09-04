@@ -1,4 +1,4 @@
-﻿== AddNotAllowedPathIsFreeByTransformerRule ==
+== AddNotAllowedPathIsFreeByTransformerRule ==
 无法添加项 '{0}'。已在服务器中使用路径 '{0}'，但由于变换规则 '{1}'，该路径在客户端上为可用状态。
 
 == AddedItemCannotBeLocked ==

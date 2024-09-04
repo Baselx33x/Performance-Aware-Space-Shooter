@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Linq;
 using UnityEditor.Presets;
 using UnityEditor.SceneManagement;

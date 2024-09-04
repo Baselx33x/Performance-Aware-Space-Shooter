@@ -1,4 +1,4 @@
-﻿using Codice.Utils;
+using Codice.Utils;
 using PlasticGui;
 
 namespace Unity.PlasticSCM.Editor.UI

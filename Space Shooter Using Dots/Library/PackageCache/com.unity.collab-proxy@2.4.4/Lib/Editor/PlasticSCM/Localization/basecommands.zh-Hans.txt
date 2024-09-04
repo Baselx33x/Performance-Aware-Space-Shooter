@@ -1,4 +1,4 @@
-﻿== WrongRevFormat3D ==
+== WrongRevFormat3D ==
 指定的修订格式无效
 
 == AcceptResults ==

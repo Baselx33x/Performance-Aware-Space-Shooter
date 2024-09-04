@@ -1,4 +1,4 @@
-﻿using Unity.Plastic.Newtonsoft.Json;
+using Unity.Plastic.Newtonsoft.Json;
 using PlasticGui.WebApi.Responses;
 
 namespace Unity.PlasticSCM.Editor.WebApi

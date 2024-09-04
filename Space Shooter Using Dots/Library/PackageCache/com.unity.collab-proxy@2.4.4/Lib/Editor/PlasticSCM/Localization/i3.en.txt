@@ -1,4 +1,4 @@
-﻿== FontPreviewSampleTest ==
+== FontPreviewSampleTest ==
 The quick brown fox jumps over the lazy dog
 
 == FontPreviewLabelFont ==

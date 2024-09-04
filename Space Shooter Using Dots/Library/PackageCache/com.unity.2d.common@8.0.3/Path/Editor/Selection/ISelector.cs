@@ -1,4 +1,4 @@
-﻿namespace UnityEditor.U2D.Common.Path
+namespace UnityEditor.U2D.Common.Path
 {
     internal interface ISelector<T>
     {

@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using UnityEditor.TestTools.TestRunner.Api;
 using UnityEngine;

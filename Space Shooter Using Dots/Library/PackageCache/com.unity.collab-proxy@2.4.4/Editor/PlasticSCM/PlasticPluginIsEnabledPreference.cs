@@ -1,4 +1,4 @@
-﻿using Unity.PlasticSCM.Editor.UI;
+using Unity.PlasticSCM.Editor.UI;
 
 namespace Unity.PlasticSCM.Editor
 {

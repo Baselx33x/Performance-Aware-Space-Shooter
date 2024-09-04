@@ -1,4 +1,4 @@
-﻿using Unity.PlasticSCM.Editor.AssetsOverlays.Cache;
+using Unity.PlasticSCM.Editor.AssetsOverlays.Cache;
 
 namespace Unity.PlasticSCM.Editor.AssetUtils.Processor
 {

@@ -1,4 +1,4 @@
-﻿== ConfiguringLanguage ==
+== ConfiguringLanguage ==
 Configurando el idioma. Éstos son los idiomas disponibles
 
 == ChooseLanguage ==
